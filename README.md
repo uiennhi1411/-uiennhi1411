@@ -1,6 +1,8 @@
 # 💫About Me :
 👋 Hi, I'm Tran Thi Uyen Nhi
 🏫 I'm currently studying Data Science at HCMC University of Science
+(imgalign="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)")
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/inhneyuihtnart141) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.[linkedin.com/in/uyen-nhi-tran-thi-ba96bb2bb/](https://www.linkedin.com/in/uyen-nhi-tran-thi-ba96bb2bb/)](https://www.linkedin.com/in/uyen-nhi-tran-thi-ba96bb2bb/)) 
