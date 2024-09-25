@@ -1,3 +1,19 @@
+<!--horizontal divider(gradiant)-->
+<img src="assets/line.gif">
+
+<!--h1 without bottom border-->
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋</h1></summary>
+  </ul>
+</div>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
+</p>
+
+
 # 💫About Me :
 <picture> 
     <img align="right" src="coder.gif" width="300px" height = "130px"/>
