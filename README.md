@@ -1,6 +1,6 @@
 # 💫About Me :
 <picture> 
-    <img align="right" src="assets/Night-Coding.gif" width="300px" height = "130px"/>
+    <img align="right" src="coder.gif" width="300px" height = "130px"/>
 </picture>
 
 - :wave: Hi, I'm Tran Thi Uyen Nhi
